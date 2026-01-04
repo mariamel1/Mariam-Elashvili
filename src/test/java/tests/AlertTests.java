@@ -19,3 +19,4 @@ public class AlertTests extends BaseTest {
         alertPage.acceptAlert();
     }
 }
+// Git test change
